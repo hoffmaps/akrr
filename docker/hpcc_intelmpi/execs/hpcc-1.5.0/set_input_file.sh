@@ -48,7 +48,7 @@ else
 	exit 9999
 fi
 
-
+cd $HPCCDIR
 
 # this allows us to go back into bash (nice for debugging and such)
 /bin/bash
